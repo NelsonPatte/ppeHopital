@@ -1,0 +1,8 @@
+C:\Users\SIO 2\Desktop\ppeTableauBord\ppeTableauBord\bin\Debug\ppeTableauBord.exe
+C:\Users\SIO 2\Desktop\ppeTableauBord\ppeTableauBord\bin\Debug\ppeTableauBord.pdb
+C:\Users\SIO 2\Desktop\ppeTableauBord\ppeTableauBord\obj\x86\Debug\ppeTableauBord.csprojResolveAssemblyReference.cache
+C:\Users\SIO 2\Desktop\ppeTableauBord\ppeTableauBord\obj\x86\Debug\ppeTableauBord.Properties.Resources.resources
+C:\Users\SIO 2\Desktop\ppeTableauBord\ppeTableauBord\obj\x86\Debug\ppeTableauBord.tableauBord.resources
+C:\Users\SIO 2\Desktop\ppeTableauBord\ppeTableauBord\obj\x86\Debug\ppeTableauBord.csproj.GenerateResource.Cache
+C:\Users\SIO 2\Desktop\ppeTableauBord\ppeTableauBord\obj\x86\Debug\ppeTableauBord.exe
+C:\Users\SIO 2\Desktop\ppeTableauBord\ppeTableauBord\obj\x86\Debug\ppeTableauBord.pdb
